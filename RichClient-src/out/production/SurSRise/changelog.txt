@@ -1,0 +1,8 @@
+[+] Добавил в ChinaHat "Hide In First Person" чек-бокс.
+[+] Добавил в DamageParticles мод "Particles, Text".
+[+] Добавил в SwingAnimations "New" мод.
+[+] Добавил в Disabler "Elytra" в мод "Flight" чек-бокс "Reset Motion" (ресетает моушен флая, если вас кикает за то, что вы долго летаете).
+[+] Добавил в Disabler "Elytra" мод "HighJump"
+[/] Пофиксил аррайлист
+[/] Пофиксил GL ERROR ошибки.
+[*] Улучшенна оптимизация клиента.
